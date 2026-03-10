@@ -1,7 +1,4 @@
 version: STSv1
 mode: enforce
 max_age: 2419200
-mx: mx2.simplelogin.co
-mx: mx1.simplelogin.co
-mx: mail.protonmail.ch
-mx: mailsec.protonmail.ch
+mx: mail.themysterious.org 
