@@ -5,3 +5,4 @@ mx: mx1.simplelogin.co.
 mx: mx2.simplelogin.co.
 mx: mailsec.protonmail.ch
 mx: mail.protonmail.ch
+mx: mail.themysterious.org
